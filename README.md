@@ -8,18 +8,18 @@ O Codigo pede cadastros simples utilizando o conceito de objetos, no codigo voc�
 <table>
   <tr>
     <td>Nome do Livro</td>
+    <td>A culpa é das estrelas</td>
+  </tr>
+  <tr>
     <td>Autor do livro</td>
+    <td>John Green</td>
   </tr>
   <tr>
-    <td>Linha 2, Coluna 1</td>
-    <td>Linha 2, Coluna 2</td>
+    <td>Data de publicação</td>
+    <td>10/01/2012</td>
   </tr>
   <tr>
-    <td>Linha 3, Coluna 1</td>
-    <td>Linha 3, Coluna 2</td>
-  </tr>
-  <tr>
-    <td>Linha 4, Coluna 1</td>
-    <td>Linha 4, Coluna 2</td>
+    <td><Descrição do livro/td>
+    <td>"A culpa é das estrelas" narra o romance de dois adolescentes que se conhecem (e se apaixonam) em um Grupo de Apoio para Crianças com Câncer: Hazel, uma jovem de dezesseis anos que sobrevive graças a uma droga revolucionária que detém a metástase em seus pulmões, e Augustus Waters, de dezessete, ex-jogador de basquete ...</td>
   </tr>
 </table>
