@@ -7,8 +7,8 @@ O Codigo pede cadastros simples utilizando o conceito de objetos, no codigo voc√
 
 <table>
   <tr>
-    <td>Linha 1, Coluna 1</td>
-    <td>Linha 1, Coluna 2</td>
+    <td>Nome do Livro</td>
+    <td>Autor do livro</td>
   </tr>
   <tr>
     <td>Linha 2, Coluna 1</td>
